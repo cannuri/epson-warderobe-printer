@@ -11,8 +11,16 @@ Ein automatisches Garderoben-Ticketsystem für Veranstaltungen im FUNKHAUS. Das 
 | Komponente | Details |
 |------------|---------|
 | Computer | Raspberry Pi 4 |
+| IP-Adresse | 172.20.10.2 |
+| Benutzername | pi |
 | Drucker | Epson TM-T88V (USB-Anschluss) |
 | Auslöser | USB-Fußpedal |
+
+### SSH-Zugang
+
+```bash
+ssh pi@172.20.10.2
+```
 
 ---
 
